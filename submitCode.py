@@ -121,7 +121,7 @@ def submit_func_old():
     time.sleep(0.1)
     click()
     time.sleep(0.1)
-    password = "94qusibani"
+    password = "your pass word"
     print(password)
     pyautogui.typewrite(password)
     time.sleep(0.1)
