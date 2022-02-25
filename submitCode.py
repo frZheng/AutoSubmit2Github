@@ -52,11 +52,11 @@ def enter():
     win32api.keybd_event(13, 0, win32con.KEYEVENTF_KEYUP, 0)
 
 
-import win32api
-import win32gui
-import win32con
-import win32process
-import time
+#import win32api
+#import win32gui
+#import win32con
+#import win32process
+#import time
 
 
 
